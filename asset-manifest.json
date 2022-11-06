@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nasa_POTD/static/css/main.ea287e7b.css",
+    "main.js": "/Nasa_POTD/static/js/main.9228c1c8.js",
+    "static/js/787.e807d280.chunk.js": "/Nasa_POTD/static/js/787.e807d280.chunk.js",
+    "index.html": "/Nasa_POTD/index.html",
+    "main.ea287e7b.css.map": "/Nasa_POTD/static/css/main.ea287e7b.css.map",
+    "main.9228c1c8.js.map": "/Nasa_POTD/static/js/main.9228c1c8.js.map",
+    "787.e807d280.chunk.js.map": "/Nasa_POTD/static/js/787.e807d280.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea287e7b.css",
+    "static/js/main.9228c1c8.js"
+  ]
+}
